@@ -1,2 +1,2 @@
 # HolaJIMENA
-Introducción de curso IN2001B
+Introducción de curso IN1002B
